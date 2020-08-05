@@ -28,3 +28,16 @@
 body{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+h2{
+  color: pink;
+}
+img{
+  width: 300px;
+}
+.centered-image{
+  width: 50%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
