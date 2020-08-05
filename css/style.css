@@ -1,0 +1,30 @@
+.column1{
+  float: left;
+  width: 33%;
+  color: brown;
+}
+
+.column2{
+  float: left;
+  width: 33%;
+  color: orange;
+}
+.column3{
+  float: left;
+  width: 33%;
+  color: blue;
+}
+.column1 h2 {
+  color: greenyellow;
+}
+.column2 h2 {
+  color: purple;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.column3 h2 {
+  color: red;
+}
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
